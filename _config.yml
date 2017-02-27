@@ -1,0 +1,17 @@
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+  - "Credits.md"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+title: "Türkçe Kaynaklar"
+subtitle: "Özenle seçilmiş Türkçe kaynaklar listesi"
+markdown: kramdown
